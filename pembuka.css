@@ -1,0 +1,29 @@
+#judul{
+   color: blueviolet;
+   font-size: 30px;
+   font-style: oblique;
+   background-image: url("7.jpg");
+   width: 70%;
+   margin : 0px 200px;
+}
+#admin{
+    background-color: cornflowerblue;
+    width: 90%;
+    margin-left: 20px;
+    text-align: center;
+    padding: 10px;
+    margin:auto;
+    font-size: 30px;
+}
+#pembeli{
+    background-color: cornflowerblue;
+    width: 90%;
+    margin-right: 20px;
+    text-align: center;
+    padding: 10px;
+    margin:auto;
+    font-size: 30px;
+}
+body{
+    background-image: url("4.jpg");
+}

@@ -1,0 +1,26 @@
+#judul{
+    color: gainsboro;
+    text-align: center;
+    font-style: oblique;
+    font-size: 60px;
+    shape-margin: 500px;
+}
+#masuk{
+    width: 40%;
+    margin:0px 400px;
+    background-color: darkkhaki;
+    font-size: 25px;
+}
+body{
+    background-image: url("6.jpg");
+    background-repeat: no-repeat;
+    margin: auto;
+    background-size: cover;
+    
+}
+input{
+    font-size: 20px;
+    padding:10px;
+    margin: 10px;
+    width: 100px;
+}

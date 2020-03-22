@@ -1,0 +1,16 @@
+body{
+    background-image: url("bck.jpg");
+    background-size: cover;
+    
+}
+table{
+    border-collapse: separate;
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1.judul{
+    font-size: 300%;
+}
+table.tabel{
+    text-align: center;
+}

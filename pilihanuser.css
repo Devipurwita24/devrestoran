@@ -1,0 +1,21 @@
+
+#user{
+    width: 100%;
+    margin-left: 20px;
+    text-align: center;
+    padding: 10px;
+    margin:auto;
+    font-size: 70px;
+}
+#reg{
+    width: 100%;
+    margin-right: 20px;
+    text-align: center;
+    padding: 10px;
+    margin:auto;
+    font-size: 70px;
+}
+body{
+    background-image: url("7.jpg");
+    text-align: center;
+}
